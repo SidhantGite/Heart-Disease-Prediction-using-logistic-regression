@@ -1,4 +1,7 @@
-# Heart-Disease-Prediction-using-logistic-regression
+ 
+ 
+ 
+ # Heart-Disease-Prediction-using-logistic-regression
 
 Heart Disease Prediction is a machine learning web application built using Flask and Logistic Regression. It uses the Framingham Heart Study dataset to predict the likelihood of a person developing heart disease based on key health metrics.
 
